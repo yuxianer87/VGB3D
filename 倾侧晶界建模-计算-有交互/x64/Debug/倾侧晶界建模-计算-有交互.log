@@ -1,0 +1,24 @@
+﻿  log.cpp
+  Result.cpp
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\packages\Eigen.3.3.3\build\native\include\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  倾侧晶界建模-计算-有交互.cpp
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\packages\Eigen.3.3.3\build\native\include\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(21,36): warning C4305: “初始化”: 从“double”到“float”截断
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(73,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(74,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(159,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(164,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(197,29): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(197,40): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(197,55): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(198,15): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(198,36): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(198,47): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(199,15): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(199,30): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(199,51): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(219,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(223,29): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\倾侧晶界建模-计算-有交互.cpp(320,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  倾侧晶界建模-计算-有交互.vcxproj -> E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\x64\Debug\倾侧晶界建模-计算-有交互.exe

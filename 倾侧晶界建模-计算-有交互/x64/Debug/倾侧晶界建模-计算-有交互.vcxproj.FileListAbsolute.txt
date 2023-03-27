@@ -1,0 +1,3 @@
+C:\Users\lei\Desktop\鱼妈\倾侧晶界建模-计算-工程\倾侧晶界建模-计算-有交互\x64\Debug\倾侧晶界建模-计算-有交互.exe
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程\倾侧晶界建模-计算-有交互\x64\Debug\倾侧晶界建模-计算-有交互.exe
+E:\ovito\ovito-master-build3\ovito-master\doc\倾侧晶界建模-计算\倾侧晶界建模-计算-工程单轴字典\倾侧晶界建模-计算-工程1\倾侧晶界建模-计算-有交互\x64\Debug\倾侧晶界建模-计算-有交互.exe
